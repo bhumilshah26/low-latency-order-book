@@ -1,0 +1,2 @@
+build/
+# g++ -std=c++17 -O3 -march=native -Wall -Wextra -Iinclude src/order_book.cpp src/main.cpp -o build/demo
